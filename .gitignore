@@ -132,3 +132,9 @@ dmypy.json
 # TMP data
 data/
 *.pth
+*.JPEG
+ 
+
+# specific
+WG6.1 XAI_Exercises_solutions.ipynb
+WG6.1 XAI.ipynb
